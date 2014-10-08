@@ -31,8 +31,8 @@ Membership Function:
 
 
 
-   Fuzzy Correlation:
-   ========================================
+Fuzzy Correlation:
+========================================
         Fuzzy correlation can be expressed as
                           C(µ1,µ2) = 1- 4[ ∑∑{µ1mn - µ2mn}2 ] / (x1+x2)
                                           = 1                         if X1+X2 = 0
